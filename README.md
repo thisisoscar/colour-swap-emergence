@@ -5,11 +5,14 @@ image_manipulation is the file I should rename to main.py. It takes a jpeg image
 # fast compiler
 Much quicker but looses quality, especially when colours are similar.
 Doesn't destroy the computer and force it to stop compiling which is good I guess.
-Saves as image_to_video.avi
+Saves as image_to_video.avi.
 Runs first
 
 # slow compiler
 Much longer time but higher quality, especially when colours are similar.
 Sometimes force shuts down my computer and slow it down to a halt with many images.
-Saves as video.mp4
+Saves as video.mp4.
 Runs second
+
+# no compiler
+alternatively, you could use something like shutter encoder. I'm not sure about quality but it's faster than both and has more output types. 
