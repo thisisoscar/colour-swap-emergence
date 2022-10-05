@@ -10,6 +10,6 @@ Runs first
 
 # slow compiler
 Much longer time but higher quality, especially when colours are similar.
-Known to overcook the computer and slow it down to a halt and forced reset.
+Sometimes force shuts down my computer and slow it down to a halt with many images.
 Saves as video.mp4
 Runs second
