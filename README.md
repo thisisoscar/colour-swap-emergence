@@ -15,4 +15,4 @@ Saves as video.mp4.
 Runs second
 
 # no compiler
-alternatively, you could use something like shutter encoder. I'm not sure about quality but it's faster than both and has more output types. 
+alternatively, you could use something like shutter encoder. I'm not sure about quality but it's faster than both and has more output types. The H.265 function worked for me and remember to activate the image sequence to whatever fps you want
