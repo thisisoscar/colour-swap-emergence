@@ -20,8 +20,10 @@ fps = 10
 fourcc = cv2.VideoWriter_fourcc(*'MP42')
  
 video = cv2.VideoWriter('image_to_video.avi', fourcc, float(fps), (width, hieght))
- 
-directry = r'/Users/oscarmappley/Desktop/colour swap emergence/fourth'
+
+directry = input('Enter the directory for the file to be added to: ')
+if directry == '':
+    directry = r'/Users/oscarmappley/Desktop/colour swap emergence/fourth'
  
 img_name_list = os.listdir(directry)
 
