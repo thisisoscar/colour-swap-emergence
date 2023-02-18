@@ -14,5 +14,5 @@ Sometimes force shuts down my computer and slow it down to a halt with many imag
 Saves as video.mp4.
 Runs second
 
-# no compiler
-or you could use an app like shutter encoder. I'm not sure about quality but it's faster than both and has more output types. The H.265 function worked for me and you need to activate the image sequence, you can set it to whatever fps you want there
+# none of the above
+If none of them work, you could use shutter encoder or something similar. I'm not sure about quality but it's faster than both and has more output types. The H.265 function worked for me and you need to activate the image sequence, you can set it to whatever fps you want there
